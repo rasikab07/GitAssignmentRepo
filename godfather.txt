@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 KEEP YOUR FRIENDS CLOSE, BUT YOUR ENEMIES CLOSER.
+=======
+Keep your enemies close, but your friends distant.
+>>>>>>> 13caec3 (Change godfather.txt)
