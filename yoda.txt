@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-DO OR DO NOT, THERE IS NO TRY.
-=======
 No try there is, do or do not.
->>>>>>> c94a69a (Change yoda.txt)
-=======
-No try there is, do or do not.
->>>>>>> 13caec324da55baa192bcc15fff119872f00ba5f
